@@ -2,8 +2,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=groovy-phazuma&theme=calm)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=groovy-phazuma&theme=calm)　&thinsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=groovy-phazuma&theme=calm)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=groovy-phazuma&theme=calm) &thinsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=groovy-phazuma&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=groovy-phazuma&theme=calm) &thinsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=groovy-phazuma&theme=calm&utcOffset=8)
 
 <!--
 **groovy-phazuma/groovy-phazuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
