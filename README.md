@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=groovy-phazuma&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=groovy-phazuma&theme=calm) &ensp; ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=groovy-phazuma&theme=calm)
 
-<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=groovy-phazuma&theme=calm) &ensp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=groovy-phazuma&theme=calm&utcOffset=8)
 -->
 <!--
